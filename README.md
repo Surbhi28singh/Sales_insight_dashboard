@@ -46,7 +46,7 @@ The final report provides a 360° overview of business performance across time, 
 ### 1️⃣ Sales Trend Over Time  
 _Description: Shows sales over time with forecasting, spikes, and outlier detection._
 
-![Sales Trend](./assets/screenshot1.png)
+![Dashboard Screenshot 2](https://github.com/Surbhi28singh/Sales_insight_dashboard/blob/main/Screenshot%202025-08-05%20215419.png?raw=true)
 
 ---
 
