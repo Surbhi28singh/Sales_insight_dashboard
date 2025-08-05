@@ -52,8 +52,7 @@ _Description: Shows sales over time with forecasting, spikes, and outlier detect
 
 ### 2️⃣ Category-Level Performance  
 _Description: Visualizes total revenue and units sold by product line and year._
-
-![Category Performance](./assets/screenshot2.png)
+![Sub-Category Sales](https://github.com/Surbhi28singh/Sales_insight_dashboard/blob/main/Screenshot%202025-08-05%20215501.png?raw=true)
 
 ---
 
