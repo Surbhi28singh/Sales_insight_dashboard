@@ -36,7 +36,7 @@ The final report provides a 360° overview of business performance across time, 
 
 ## 📸 Dashboard Screenshots
 
-> _⬇️ Add your screenshots by uploading them to GitHub and updating the image paths below._
+>Screenshot 2025-08-05 215308.png
 
 ### 1️⃣ Sales Trend Over Time  
 _Description: Shows sales over time with forecasting, spikes, and outlier detection._
