@@ -59,15 +59,13 @@ _Description: Visualizes total revenue and units sold by product line and year._
 ### 3️⃣ Top Product Analysis  
 _Description: Highlights the top-performing products, such as the 1992 Ferrari 360 Spider Red._
 
-![Top Products](./assets/screenshot3.png)
-
+![Executive Dashboard](https://github.com/Surbhi28singh/Sales_insight_dashboard/blob/main/Screenshot%202025-08-05%20215534.png?raw=true)
 ---
 
 ### 4️⃣ Final Interactive Executive Dashboard  
 _Description: Combines all visuals, filters, KPIs, and interactivity in one polished view._
 
-![Executive Dashboard](./assets/screenshot4.png)
-
+![Executive Dashboard](./assets/screenshot4.png)![Sales Dashboard Screenshot](https://github.com/Surbhi28singh/Sales_insight_dashboard/blob/main/Screenshot%202025-08-05%20215308.png?raw=true)
 ---
 
 ## 📈 Insights Derived
